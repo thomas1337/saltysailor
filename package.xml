@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="plugin" version="2.3.0.17">
+	<folder>salty_sailor</folder>
+	<name>SaltySailor</name>
+	<author>Push</author>
+	<authorEmail>-</authorEmail>
+	<creationDate>1587510367 </creationDate>
+	<copyright>(C)2020 Push</copyright>
+	<version>1.0.0</version>
+	<level>stable</level>
+</install>
